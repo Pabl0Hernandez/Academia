@@ -2,7 +2,7 @@ using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Options;
 using Academia.Mvc.Models;
-using AvalicaoFisica;
+using Academia;
 
 namespace Academia.Mvc.Data;
 

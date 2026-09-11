@@ -1,6 +1,4 @@
-using Academia;
-
-namespace AvalicaoFisica;
+namespace Academia;
 
 public class AvaliacaoFisica
 {

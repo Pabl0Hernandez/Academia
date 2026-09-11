@@ -1,0 +1,23 @@
+namespace Academia;
+
+public class Inscricao
+{
+    public int Id { get; set; }
+    public DateTime DataNascimento { get; set; }
+   
+    public int AlunoId { get; set; } 
+    public Aluno? Aluno { get; set; }
+    public int AulaId { get; set; }
+    public Aula? Aula { get; set; }
+}
+
+
+
+
+
+
+
+
+
+
+

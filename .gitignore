@@ -3,6 +3,11 @@
 ##
 ## Get latest from `dotnet new gitignore`
 
+## Nunca Subir segredos de conexão para o banco de dados, arquivos de configuração de senhas, etc.
+
+**/appsettings.Development.json
+
+
 # dotenv files
 .env
 
